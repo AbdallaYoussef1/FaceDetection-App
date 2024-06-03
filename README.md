@@ -12,7 +12,7 @@ The Face Filter Application is a simple Python desktop application that allows u
 ## Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/face-filter-application.git
+    git clone https://github.com/AbdallaYoussef1/FaceDetection-App.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -33,21 +33,6 @@ The Face Filter Application is a simple Python desktop application that allows u
 4. To remove all filters and start over, click on the "Clear Updates" button.
 5. Close the application window when finished.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork the repository and create your branch:
-    ```bash
-    git checkout -b feature/your-feature
-    ```
-2. Commit your changes and push to the branch:
-    ```bash
-    git commit -am 'Add some feature'
-    git push origin feature/your-feature
-    ```
-3. Submit a pull request detailing your changes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - This application was inspired by similar projects in the computer vision and image processing community.
